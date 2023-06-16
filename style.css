@@ -1,0 +1,18 @@
+/* SECTION Elements */
+
+/* SECTION class */
+
+.buttonColor {
+    background-color: rgb(110, 76, 234);
+    color: white;
+}
+
+.iceCream-img {
+    height: 30vh;
+    object-fit: cover;
+}
+
+.menu {
+    max-height: 70vh;
+    overflow-y: auto;
+}
